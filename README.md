@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/deepu_11699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepu_11699" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/deepak dhakad vlogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deepak dhakad vlogger" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@deepakdhakadvlogger5864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deepak dhakad vlogger" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
