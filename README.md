@@ -1,4 +1,4 @@
-![logo](https://github.com/deepu7612/deepu7612/blob/main/1707574383995.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate frontend from India</h3>
